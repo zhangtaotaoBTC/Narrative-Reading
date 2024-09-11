@@ -3,51 +3,7 @@ timezone: Asia/Shanghai
 ---
 
 > 请在上边的 timezone 添加你的当地时区，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
-> 时区请参考以下列表，请移除 # 以后的内容
 
-timezone: Pacific/Honolulu # 夏威夷-阿留申标准时间 (UTC-10)
-
-timezone: America/Anchorage # 阿拉斯加标准时间 (UTC-9)
-
-timezone: America/Los_Angeles # 太平洋标准时间 (UTC-8)
-
-timezone: America/Denver # 山地标准时间 (UTC-7)
-
-timezone: America/Chicago # 中部标准时间 (UTC-6)
-
-timezone: America/New_York # 东部标准时间 (UTC-5)
-
-timezone: America/Halifax # 大西洋标准时间 (UTC-4)
-
-timezone: America/St_Johns # 纽芬兰标准时间 (UTC-3:30)
-
-timezone: America/Sao_Paulo # 巴西利亚时间 (UTC-3)
-
-timezone: Atlantic/Azores # 亚速尔群岛时间 (UTC-1)
-
-timezone: Europe/London # 格林威治标准时间 (UTC+0)
-
-timezone: Europe/Berlin # 中欧标准时间 (UTC+1)
-
-timezone: Europe/Helsinki # 东欧标准时间 (UTC+2)
-
-timezone: Europe/Moscow # 莫斯科标准时间 (UTC+3)
-
-timezone: Asia/Dubai # 海湾标准时间 (UTC+4)
-
-timezone: Asia/Kolkata # 印度标准时间 (UTC+5:30)
-
-timezone: Asia/Dhaka # 孟加拉国标准时间 (UTC+6)
-
-timezone: Asia/Bangkok # 中南半岛时间 (UTC+7)
-
-timezone: Asia/Shanghai # 中国标准时间 (UTC+8)
-
-timezone: Asia/Tokyo # 日本标准时间 (UTC+9)
-
-timezone: Australia/Sydney # 澳大利亚东部标准时间 (UTC+10)
-
-timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
@@ -64,10 +20,29 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 <!-- Content_START -->
 
-### 2024.07.11
+### 2024.09.11
 
-笔记内容
+阅读完《网络国家是骗局吗？Are Network States a Scam?》
+这篇文章挺有意思的，作者亲身2021年参与了网络国家的早期社群，1729.com。作者尽量客观的写下自己体验感受。
+最后得出结论就是，网络国家落地还很遥远，在这个网络社群中结识的朋友和伙伴才是最宝贵的财富。
+有意思的是Balaji他自己，抛出他的观点和文章后，基本没参加网络社群的互动和引导，这点让作者感到失望，他认为这个社群本身应该能挖掘更多价值，做更多尝试和落地行动。
+可惜没有 Balaji，或其它类似“教主”领袖站出来，引导。
 
+他举了另外一个Solana区块链上的社群例子，Superteam，感觉更像是区块链创业支持网络，国内也有万向孵化营，Spring X这类。这些组织远远谈不上是网络国家的践行者。
+
+阅读完《《激进区块链：资本主义如何毁掉加密领域，我们又如何修复它》（blockchain radicals: how capitalism ruined crypto and how to fix it）》
+这篇文章有点长，我觉得论点太多，有点散。核心怎么做，其实两位作者都没有太明确的方向，更多像怀着希望和好的愿望，去努力尝试，摸索出一条路。
+但我现在来看，确实同意 资本主义毁了区块链。
+以太坊ETH，索纳拉SOL承担了太多VC投资变现，散户暴富的不切实际预期，总体让人失望，特别是以太坊自己也在做POS质押生息，大量资本押注Restaking模式。
+以太坊基金会总体在技术上支持赞助较多，V神也在想着继续改善区块链性能，可惜没有实际用户真正想用它。
+
+文章提到区块链社会主义，让我想起了Worldcoin最开始的UBI全民收入计划，但没有真正利润做支撑，也会被大量撸毛党撸垮。
+这一轮还有哪些加密极客能把区块链技术应用到解决实际真问题上，目前来看还比较少。也许区块链真是为AI模型准备的？
+
+重新看A16Z采访《The Network State with Balaji Srinivasan》，感觉这个想法和叙事很大胆，但真正实际落地又让人看不到很快的可能性。
+我个人看法是网络国家还太早，但加密部落是可行的，需要一个健康的收入模式，让加密部落慢慢发展壮大。
+Ricky看法是大家来网络就是来娱乐购物玩游戏看电影交友的，不是来网络上继续当牛马打工，建设网络城邦，网络国家的。大国一定会要打压和扼杀这些试图钻他们空子
+和法律监管不到区域的小国。
 ### 2024.07.12
 
 <!-- Content_END -->
